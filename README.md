@@ -4,7 +4,8 @@ I'm yma, passionate about creativity, customization, and tech !
 I love create Discord Bots and using python or javascript.
 Currently working on cool plugins and useful tools (check out my repos!).  
 Sometimes I just build things for fun — because why not.. ?
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=orange&logoWidth=50)
+![Cool Animation](https://media.giphy.com/media/3o7btGGB5V0A5U9P7m/giphy.gif)
+
 ---
 
 ## Favorites uses
