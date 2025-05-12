@@ -1,13 +1,13 @@
 # Hey there, I'm Yma 👋
 
-🎨 Passionate about creativity, customization, and tech.  
-🐍 Python lover with an interest in cybersecurity and modding.  
-🛠️ Currently working on cool plugins and useful tools (check out my repos!).  
-🎮 Sometimes I just build things for fun — because why not?
+I'm yma, passionate about creativity, customization, and tech !  
+I love create Discord Bots and using python or javascript.
+Currently working on cool plugins and useful tools (check out my repos!).  
+Sometimes I just build things for fun — because why not.. ?
 
 ---
 
-## 🧰 Tech Stack & Favorite Tools
+## Favorites uses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
@@ -23,5 +23,5 @@
 
 ---
 
-📎 [Visit my site](https://guns.lo/kfc)  
-🐦 [Follow me on X](https://x.com/yamofficiel_)
+[Visit my guns.lol](https://guns.lol/kfc)  
+[Follow me on X](https://x.com/yamofficiel_)
