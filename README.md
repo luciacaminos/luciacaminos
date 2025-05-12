@@ -24,5 +24,5 @@ Sometimes I just build things for fun — because why not.. ?
 
 ---
 
-[Visit my guns.lol](https://guns.lol/kfc)  
-[Follow me on X](https://x.com/yamofficiel_)
+### [Visit my guns.lol](https://guns.lol/kfc)  
+### [Follow me on X](https://x.com/yamofficiel_)
