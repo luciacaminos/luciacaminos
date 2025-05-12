@@ -19,7 +19,8 @@ Sometimes I just build things for fun — because why not.. ?
 
 ## 📊 GitHub Stats
 
-![Yma's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciacaminos&show_icons=true&theme=tokyonight)\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciacaminos&layout=compact&theme=tokyonight)
+![Yma's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciacaminos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciacaminos&layout=compact&theme=tokyonight)
 
 ---
 
