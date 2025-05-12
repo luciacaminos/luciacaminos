@@ -1,4 +1,4 @@
-# Hey there, I'm Yma 👋
+# Hey there, I'm yma 👋
 
 I'm yma, passionate about creativity, customization, and tech !  
 I love create Discord Bots and using python or javascript.
